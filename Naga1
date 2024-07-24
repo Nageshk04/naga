@@ -1,0 +1,7 @@
+class Naga1
+{
+public void main string args[]
+{
+System.out.println("Don't worry i'm Here");
+}
+}
